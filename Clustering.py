@@ -110,10 +110,6 @@ def main():
 
 
 
-
-
-#    plt.plot(x_cord, y_cord, 'ro')
-#    plt.plot(x_centers, y_centers, 'go')
     colors = "bgrcmykw"
     color_index = 0
     for i in range(numberOfClusters):
